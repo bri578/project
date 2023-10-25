@@ -6,7 +6,5 @@
 ## LICENSE:
 ### Creative Commons Attribution License 3.0 / CC BY 3.0 US DEED
 
-I chose this license due to my project being a sort of film. It gives the public the ability to use the film as long as attribution/credit is appropriately given to the creator.
-
 The link to the video is [here](https://youtu.be/NGYIFTEcBDA) just in case :) 
 
