@@ -8,5 +8,5 @@
 
 I chose this license due to my project being a sort of film. It gives the public the ability to use the film as long as attribution/credit is appropriately given to the creator.
 
-The link to the video is [here]( -- ) just in case :) 
+The link to the video is [here](https://youtu.be/NGYIFTEcBDA) just in case :) 
 
